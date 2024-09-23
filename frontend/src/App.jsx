@@ -21,7 +21,7 @@ function App() {
       <h1>Chai and Full Stack</h1>
       <p>JOKES: {jokes.length}</p>
       <h2>
-        not working
+        not working hahaha
       </h2>
       {jokes.map((joke) => (
         <div key={joke.id}>
